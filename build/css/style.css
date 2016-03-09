@@ -660,5 +660,8 @@ input[type=submit].twitter:after {
 }
 .store-selector input[type="text"] {
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
+}
+body {
+  background: #add8e6;
 }
