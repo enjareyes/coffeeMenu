@@ -1,5 +1,4 @@
 Simple react coffee menu!
 
 cd into 'catch-of-the-day'
-npm install
-run 'gulp'
+'npm install' and run 'gulp'
