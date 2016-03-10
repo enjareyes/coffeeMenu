@@ -7,6 +7,15 @@
     "start": "node app",
     "postinstall": "gulp default"
   },
+  "dependencies": {
+    "gulp": "3.9.0",
+    "gulp-autoprefixer": "3.1.0",
+    "gulp-notify": "2.2.0",
+    "gulp-rename": "1.2.2",
+    "gulp-stylus": "2.1.0",
+    "gulp-uglify": "1.4.2",
+    "gulp-util": "3.0.7"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -17,13 +26,6 @@
     "browserify": "11.2.0",
     "connect-history-api-fallback": "1.1.0",
     "firebase": "2.3.1",
-    "gulp": "3.9.0",
-    "gulp-autoprefixer": "3.1.0",
-    "gulp-notify": "2.2.0",
-    "gulp-rename": "1.2.2",
-    "gulp-stylus": "2.1.0",
-    "gulp-uglify": "1.4.2",
-    "gulp-util": "3.0.7",
     "history": "1.12.5",
     "install": "0.1.8",
     "re-base": "1.2.1",
