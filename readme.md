@@ -5,11 +5,9 @@ cd into 'coffee-of-the-day'<br>
 run 'gulp'<br>
 
 <br>
-<br>
 
 <img src="css/images/add-items.png">
 
-<br>
 <br>
 
 <b>What you can do:</b>
@@ -19,3 +17,5 @@ run 'gulp'<br>
 - Update existing inventory item info<br>
 - Add items from menu to your ticket<br>
 - Remove items from your ticket<br>
+<br>
+Made with &#9829;
